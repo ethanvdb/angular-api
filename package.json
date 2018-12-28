@@ -1,0 +1,17 @@
+{
+  "name": "jaaropdracht",
+  "version": "1.0.0",
+  "description": "Api voor jaaropdracht angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*",
+    "cors": "^2.8.5"
+  },
+  "author": "Ethan Van den Bleeken",
+  "license": "ISC"
+}
